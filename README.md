@@ -49,3 +49,4 @@
 # 분석/설계
 
 ## AS-IS 조직 (Horizontally-Aligned)
+![79684144-2a893200-826a-11ea-9a01-79927d3a0107](https://user-images.githubusercontent.com/42608068/96371393-84789f00-119c-11eb-80d9-ffbcab38ff84.png)
