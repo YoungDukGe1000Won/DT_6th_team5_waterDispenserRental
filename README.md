@@ -73,10 +73,10 @@
 ![제목 없음2](https://user-images.githubusercontent.com/42608068/96401865-7ca61280-120f-11eb-83d6-cb0f2970cb37.png)
 
 ### 어그리게잇으로 묶기
-
+![제목 없음3](https://user-images.githubusercontent.com/42608068/96402579-423d7500-1211-11eb-9784-c1f7e1c4b2fb.png)
 
 ### 바운디드 컨텍스트로 묶기
-
+![제목 없음4](https://user-images.githubusercontent.com/42608068/96402789-b9730900-1211-11eb-84a1-43062ff258fe.png)
 
 ### 도메인분리
 
