@@ -64,13 +64,13 @@
 ### 이벤트 스토밍 결과  
 
 ### 이벤트 도출 
-
+![제목 없음1](https://user-images.githubusercontent.com/42608068/96401757-3650b380-120f-11eb-87dc-764e34ae453c.png)
 
 ### 부적격 이벤트 탈락
-
+![제목 없음](https://user-images.githubusercontent.com/42608068/96401697-0e615000-120f-11eb-982d-2b57c7e2d692.png)
 
 ### 액터, 커맨드 부착하여 읽기 좋게
-
+![제목 없음2](https://user-images.githubusercontent.com/42608068/96401865-7ca61280-120f-11eb-83d6-cb0f2970cb37.png)
 
 ### 어그리게잇으로 묶기
 
