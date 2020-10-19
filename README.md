@@ -59,6 +59,26 @@
 ### 이벤트스토밍
 * MSAEz 로 모델링한 이벤트스토밍 결과:  
 
+===========
+
+### 이벤트 도출 
+![image](https://user-images.githubusercontent.com/47113630/96410136-64d78a00-1221-11eb-9ca0-723dd9171c81.png)
+
+### 커맨드, 액터 도출 및 이벤트명 보완 
+![image](https://user-images.githubusercontent.com/47113630/96410990-bfbdb100-1222-11eb-92c0-3590f78b7ea9.png)
+* 연결된 이벤트는 Policy도 같이 도출함
+
+### 어그리게잇 및 바운디드 컨텍스트 적용 
+![image](https://user-images.githubusercontent.com/47113630/96412237-c64d2800-1224-11eb-945c-441b6aaba254.png)
+
+### 컨텍스트 매핑 및 추가 도출 Policy 사항 적용
+![image](https://user-images.githubusercontent.com/47113630/96413447-9d2d9700-1226-11eb-802c-9c785b1cfbe8.png)
+* 폴리시의 이동과 컨텍스트 매핑
+
+### 사용자 커맨드를 위한 정보 View 추가
+![image](https://user-images.githubusercontent.com/47113630/96414047-89366500-1227-11eb-9864-4ac69a205e2f.png)
+
+=============
 
 ### 이벤트 스토밍 결과  
 ![캡처](https://user-images.githubusercontent.com/42608068/96403044-55047980-1212-11eb-9d7c-84bc82ab7ecd.PNG)
