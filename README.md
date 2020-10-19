@@ -60,8 +60,8 @@
 * MSAEz 로 모델링한 이벤트스토밍 결과:  
 
 
-
 ### 이벤트 스토밍 결과  
+![캡처](https://user-images.githubusercontent.com/42608068/96403044-55047980-1212-11eb-9d7c-84bc82ab7ecd.PNG)
 
 ### 이벤트 도출 
 ![제목 없음1](https://user-images.githubusercontent.com/42608068/96401757-3650b380-120f-11eb-87dc-764e34ae453c.png)
